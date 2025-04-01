@@ -1,0 +1,8 @@
+//mixsins
+@mixin dFlex($justifyContent,$alignItems,$colgap:0){
+    display: flex;
+    justify-content: $justifyContent;
+    align-items: $alignItems;
+    flex-direction:$flexDirection;
+    column-gap: $colgap;
+}
