@@ -41,7 +41,7 @@
   .car-section{
 
     display: grid;
-    grid-template-columns: repeat(4, 1fr); // 3 სვეტი
+    grid-template-columns: repeat(3, 1fr); // 3 სვეტი
     gap: 20px; // ბარათებს შორის დაშორება
     padding: 20px;
       
@@ -107,7 +107,7 @@
         gap: 100px;
         p{
           font-weight: bold;
-          color: hsl(0, 0%, 23%);
+          color: hsl(0, 2%, 11%);
         }
         li {
          display: flex;
