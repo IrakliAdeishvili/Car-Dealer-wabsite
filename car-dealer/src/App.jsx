@@ -4,6 +4,7 @@ import Brands from './componnets/Brands';
 import CarCatalog from './componnets/CarCatalog';
 import BuySellCarCards from './componnets/BuySellCarCards';
 import Team from './componnets/Team';
+import DownloadPlatforms from './componnets/DownloadPlatforms';
 
 
 
@@ -18,6 +19,7 @@ function App() {
      <CarCatalog/>
      <BuySellCarCards/>
      <Team/>
+     <DownloadPlatforms/>
    
      
 
