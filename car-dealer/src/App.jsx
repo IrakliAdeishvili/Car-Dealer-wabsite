@@ -1,9 +1,11 @@
-import { useState } from 'react'
-import './App.scss'
-import Header from './componnets/Header'
-import Brands from './componnets/Brands'
-import CarCatalog from './componnets/CarCatalog'
-import BuySellCarCards from './componnets/BuySellCarCards'
+import './App.scss';
+import Header from './componnets/Header';
+import Brands from './componnets/Brands';
+import CarCatalog from './componnets/CarCatalog';
+import BuySellCarCards from './componnets/BuySellCarCards';
+import Team from './componnets/Team';
+
+
 
 
 
@@ -15,6 +17,10 @@ function App() {
      <Brands/>
      <CarCatalog/>
      <BuySellCarCards/>
+     <Team/>
+   
+     
+
    
      
      
