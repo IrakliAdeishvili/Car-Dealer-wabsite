@@ -14,8 +14,6 @@ function Brands(){
           <div className="brands-title">
              <h1> Explore Our Premium Brands</h1>
              <li><a href="">View All <img src={arrowIcon} alt="" /></a></li>
-
-            
           </div>
 
           <div className="brands-cards">

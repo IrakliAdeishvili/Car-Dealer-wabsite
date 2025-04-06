@@ -30,8 +30,8 @@
         }
     }
     .contacts{
-        // display: flex;
         .sale-hours{
+            line-height: 30px;
             h2{
              font-family: Arial, Helvetica, sans-serif;
              font-size: 1.5rem;
@@ -40,12 +40,14 @@
 
             }
             p{
+                
                 color: hsl(0, 5%, 88%) 
             }
         }
         .contacts-links{
-            padding: 15px;
+            line-height: 50px;
             h2{
+                
              font-family: Arial, Helvetica, sans-serif;
              font-size: 1.5rem;
              font-weight: bold;
