@@ -5,6 +5,8 @@ import CarCatalog from './componnets/CarCatalog';
 import BuySellCarCards from './componnets/BuySellCarCards';
 import Team from './componnets/Team';
 import DownloadPlatforms from './componnets/DownloadPlatforms';
+import Blogs from './componnets/blogs';
+import Footer from './componnets/Footer';
 
 
 
@@ -20,6 +22,8 @@ function App() {
      <BuySellCarCards/>
      <Team/>
      <DownloadPlatforms/>
+     <Blogs/>
+     <Footer/>
    
      
 
